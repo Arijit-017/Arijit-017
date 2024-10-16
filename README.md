@@ -3,7 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijit-017&label=Profile%20views&color=0e75b6&style=flat" alt="arijit-017" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arijit-017" alt="arijit-017" /></a> </p>
+<p align="left">
+  
+# About Me
+
+- 👋 Hi! I'm **Arijit Ghosh**.
+- 🎓 Currently studying **Information Technology** at Haldia Institute of Technology.
+- 💻 Passionate about **web development** and **software solutions**.
+- 🛠️ Skilled in **C++**, **JavaScript**, and web technologies like **React**.
+- 🚀 Interning as a **Software Engineer**, enhancing web applications.
+- 🌱 Always eager to learn and explore new technologies.
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arijit-ghosh-7b557a244) or email me at [ajghosh017@gmail.com](mailto:ajghosh017@gmail.com)!
+
+</p>
 
 - 🔭 I’m currently working on [Automated System for Career Advancements of the Faculties of Higher Education](https://github.com/apsharma07/SIH1613)
 
