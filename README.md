@@ -30,21 +30,13 @@
 </p>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px; background-color: navy; padding: 20px; border-radius: 10px;">
-  <div style="flex: 1 1 40%; max-width: 40%; margin: 10px; padding: 10px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-    <img src="https://github-readme-stats.vercel.app/api?username=arijit-017&show_icons=true&locale=en" alt="arijit-017" style="width: 100%; height: 150px; object-fit: cover; border-radius: 10px;"/>
-  </div>
-  
-  <div style="flex: 1 1 40%; max-width: 40%; margin: 10px; padding: 10px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arijit-017&" alt="arijit-017" style="width: 100%; height: 150px; object-fit: cover; border-radius: 10px;"/>
-  </div>
-  
-  <div style="flex: 1 1 90%; max-width: 90%; margin: 10px; padding: 10px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arijit-017&show_icons=true&locale=en&layout=compact" alt="arijit-017" style="width: 100%; height: 150px; object-fit: cover; border-radius: 10px;"/>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=arijit-017&show_icons=true&locale=en" alt="arijit-017" style="width: 100%; height: 150px; object-fit: cover; border-radius: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arijit-017&" alt="arijit-017" style="width: 100%; height: 150px; object-fit: cover; border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arijit-017&show_icons=true&locale=en&layout=compact" alt="arijit-017" style="width: 100%; height: 150px; object-fit: cover; border-radius: 10px;"/>
 </div>
 
-<h3 align="center" style="color: white;">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left" style="color: white;">Languages and Tools:</h3>
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35" style="margin: 0 10px;"/>
   </a>
